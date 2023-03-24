@@ -40,3 +40,11 @@ CSS
 JAVASCRIPT
 
 # CONTACT DETAILS
+
+njokizuleika@gmail.com
+
++254794470186
+
+# LICENSE
+
+licensed under the[MIT-license]
